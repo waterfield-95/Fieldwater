@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi bro 👋
 
 - 🔭 I’m currently working on recommendation system.
 - 🌱 I’m currently learning tensorflow and spark.
